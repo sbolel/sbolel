@@ -7,7 +7,7 @@
 [![GitHub][gh-badge]][gh-url]
 [![StackOverflow][so-badge]][so-url]
 [![npm.js][npm-badge]][npm-url]
-[![Patreon][patreon-badge]][patreon-url]
+<!-- [![Patreon][patreon-badge]][patreon-url] -->
 
 [website-badge]: https://img.shields.io/badge/-Website-e3e3e3.svg?&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjAiIGZpbGw9IiMwMDAwMDAiIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyI+PHBhdGggZD0iTTQzMi0yODhIMjg4cS03OS42OCAwLTEzNS44NC01Ni4yM1E5Ni00MDAuNDUgOTYtNDgwLjIzIDk2LTU2MCAxNTIuMTYtNjE2cTU2LjE2LTU2IDEzNS44NC01NmgxNDR2NzJIMjg4cS01MCAwLTg1IDM1dC0zNSA4NXEwIDUwIDM1IDg1dDg1IDM1aDE0NHY3MlptLTk2LTE1NnYtNzJoMjg4djcySDMzNlptMTkyIDE1NnYtNzJoMTQ0cTUwIDAgODUtMzV0MzUtODVxMC01MC0zNS04NXQtODUtMzVINTI4di03MmgxNDRxNzkuNjggMCAxMzUuODQgNTYuMjMgNTYuMTYgNTYuMjIgNTYuMTYgMTM2UTg2NC00MDAgODA3Ljg0LTM0NCA3NTEuNjgtMjg4IDY3Mi0yODhINTI4WiIvPjwvc3ZnPg==
 [website-url]: https://sinanbolel.com
