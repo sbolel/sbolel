@@ -20,7 +20,7 @@
 [patreon-badge]: https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white
 [patreon-url]: patreon.com/sbolel
 [coffee-badge]: https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black
-[coffee-url]: https://buymeacoffee.com/sinanbolel
+[coffee-url]: https://buymeacoffee.com/sbolel
 [npm-url]: https://www.npmjs.com/~sinanbolel
 [npm-badge]: https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff
 [so-url]: https://link.sinanbolel.com/url/stackoverflow
