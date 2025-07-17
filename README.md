@@ -1,4 +1,4 @@
-## Sinan Bolel
+# Sinan Bolel
 
 [![website-badge]][website-url]
 [![resume-badge]][resume-url]
@@ -7,6 +7,8 @@
 [![so-badge]][so-url]
 [![npm-badge]][npm-url]
 [![coffee-badge]][coffee-url]
+
+## Director of Software Engineering @ [Aquia Inc.][aquia.us]
 
 [website-badge]: https://img.shields.io/badge/-Website-e3e3e3.svg?&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjAiIGZpbGw9IiMwMDAwMDAiIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyI+PHBhdGggZD0iTTQzMi0yODhIMjg4cS03OS42OCAwLTEzNS44NC01Ni4yM1E5Ni00MDAuNDUgOTYtNDgwLjIzIDk2LTU2MCAxNTIuMTYtNjE2cTU2LjE2LTU2IDEzNS44NC01NmgxNDR2NzJIMjg4cS01MCAwLTg1IDM1dC0zNSA4NXEwIDUwIDM1IDg1dDg1IDM1aDE0NHY3MlptLTk2LTE1NnYtNzJoMjg4djcySDMzNlptMTkyIDE1NnYtNzJoMTQ0cTUwIDAgODUtMzV0MzUtODVxMC01MC0zNS04NXQtODUtMzVINTI4di03MmgxNDRxNzkuNjggMCAxMzUuODQgNTYuMjMgNTYuMTYgNTYuMjIgNTYuMTYgMTM2UTg2NC00MDAgODA3Ljg0LTM0NCA3NTEuNjgtMjg4IDY3Mi0yODhINTI4WiIvPjwvc3ZnPg==
 [website-url]: https://sinanbolel.com
@@ -24,3 +26,8 @@
 [npm-badge]: https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff
 [so-url]: https://stackoverflow.com/users/1526037/sbolel/
 [so-badge]: https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=fff
+
+[@aquia-inc]: https://github.com/aquia-inc
+[aquia.us]: https://aquia.us
+
+<meta name="keywords" content="Sinan,Bolel,director,director-level,leadership,strategy,engineering manager,management,technology,IT,software,engineer,developer,development,architecture,cloud,cloud-native,devops,cybersecurity,cyber,security,specifications,requirements,full-stack,fullstack,backend,frontend,EDA,event-driven,websockets,LLM,AI,Python,Flask,Typescript,Javascript,ts,js,Node.js,Node,Next,Next.js,React.js,React,Vue,Vue.js,Aurelia,Salesforce,Firebase,NoSQL,MySQL,Postgres,Redis,computer-science,compsci,cross-platform,git,GitHub,gitops,CSS,CSS3,SCSS,SASS,HTML5,HTML,mobile,open-source,opensource,programmer,programming,web,user-experience,user-interface,UI,UX,design,research,Aquia,Aquia Inc.,aquia-inc,Northwestern,@sbolel,sbolel,sinanbolel" />
